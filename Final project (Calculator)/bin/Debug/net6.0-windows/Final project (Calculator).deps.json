@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Final project (Calculator)/1.0.0": {
+        "runtime": {
+          "Final project (Calculator).dll": {}
+        }
+      },
+      "Calculator Classes/1.0.0": {
+        "runtime": {
+          "Calculator Classes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Final project (Calculator)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Calculator Classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

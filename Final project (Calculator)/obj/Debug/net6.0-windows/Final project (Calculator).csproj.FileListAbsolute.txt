@@ -1,0 +1,40 @@
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator)\Final project (Calculator)\bin\Debug\net6.0-windows\Final project (Calculator).exe
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator)\Final project (Calculator)\bin\Debug\net6.0-windows\Final project (Calculator).deps.json
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator)\Final project (Calculator)\bin\Debug\net6.0-windows\Final project (Calculator).runtimeconfig.json
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator)\Final project (Calculator)\bin\Debug\net6.0-windows\Final project (Calculator).dll
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator)\Final project (Calculator)\bin\Debug\net6.0-windows\Final project (Calculator).pdb
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator)\Final project (Calculator)\obj\Debug\net6.0-windows\Final project (Calculator).csproj.AssemblyReference.cache
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator)\Final project (Calculator)\obj\Debug\net6.0-windows\Final_project__Calculator_.Form1.resources
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator)\Final project (Calculator)\obj\Debug\net6.0-windows\Final project (Calculator).csproj.GenerateResource.cache
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator)\Final project (Calculator)\obj\Debug\net6.0-windows\Final project (Calculator).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator)\Final project (Calculator)\obj\Debug\net6.0-windows\Final project (Calculator).AssemblyInfoInputs.cache
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator)\Final project (Calculator)\obj\Debug\net6.0-windows\Final project (Calculator).AssemblyInfo.cs
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator)\Final project (Calculator)\obj\Debug\net6.0-windows\Final project (Calculator).csproj.CoreCompileInputs.cache
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator)\Final project (Calculator)\obj\Debug\net6.0-windows\Final project (Calculator).dll
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator)\Final project (Calculator)\obj\Debug\net6.0-windows\refint\Final project (Calculator).dll
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator)\Final project (Calculator)\obj\Debug\net6.0-windows\Final project (Calculator).pdb
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator)\Final project (Calculator)\obj\Debug\net6.0-windows\Final project (Calculator).genruntimeconfig.cache
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator)\Final project (Calculator)\obj\Debug\net6.0-windows\ref\Final project (Calculator).dll
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator) - Copy\Final project (Calculator)\bin\Debug\net6.0-windows\Final project (Calculator).exe
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator) - Copy\Final project (Calculator)\bin\Debug\net6.0-windows\Final project (Calculator).deps.json
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator) - Copy\Final project (Calculator)\bin\Debug\net6.0-windows\Final project (Calculator).runtimeconfig.json
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator) - Copy\Final project (Calculator)\bin\Debug\net6.0-windows\Final project (Calculator).dll
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator) - Copy\Final project (Calculator)\bin\Debug\net6.0-windows\Final project (Calculator).pdb
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator) - Copy\Final project (Calculator)\obj\Debug\net6.0-windows\Final project (Calculator).csproj.AssemblyReference.cache
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator) - Copy\Final project (Calculator)\obj\Debug\net6.0-windows\Final_project__Calculator_.Form1.resources
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator) - Copy\Final project (Calculator)\obj\Debug\net6.0-windows\Final project (Calculator).csproj.GenerateResource.cache
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator) - Copy\Final project (Calculator)\obj\Debug\net6.0-windows\Final project (Calculator).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator) - Copy\Final project (Calculator)\obj\Debug\net6.0-windows\Final project (Calculator).AssemblyInfoInputs.cache
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator) - Copy\Final project (Calculator)\obj\Debug\net6.0-windows\Final project (Calculator).AssemblyInfo.cs
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator) - Copy\Final project (Calculator)\obj\Debug\net6.0-windows\Final project (Calculator).csproj.CoreCompileInputs.cache
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator) - Copy\Final project (Calculator)\obj\Debug\net6.0-windows\Final project (Calculator).dll
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator) - Copy\Final project (Calculator)\obj\Debug\net6.0-windows\refint\Final project (Calculator).dll
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator) - Copy\Final project (Calculator)\obj\Debug\net6.0-windows\Final project (Calculator).pdb
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator) - Copy\Final project (Calculator)\obj\Debug\net6.0-windows\Final project (Calculator).genruntimeconfig.cache
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator) - Copy\Final project (Calculator)\obj\Debug\net6.0-windows\ref\Final project (Calculator).dll
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator) - Copy\Final project (Calculator)\bin\Debug\net6.0-windows\Calculator Classes.dll
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator) - Copy\Final project (Calculator)\bin\Debug\net6.0-windows\Calculator Classes.pdb
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator) - Copy\Final project (Calculator)\obj\Debug\net6.0-windows\Final project (Calculator).csproj.CopyComplete
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator)\Final project (Calculator)\bin\Debug\net6.0-windows\Calculator Classes.dll
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator)\Final project (Calculator)\bin\Debug\net6.0-windows\Calculator Classes.pdb
+C:\Users\Rico\iCloudDrive\Documents\NBCC\OOP\Project\Final project (Calculator)\Final project (Calculator)\obj\Debug\net6.0-windows\Final project (Calculator).csproj.CopyComplete
