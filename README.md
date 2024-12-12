@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a fully functional calculator application developed as a part of an educational exercise to demonstrate proficiency in Object-Oriented Programming (OOP) using C#. It serves as a practical implementation of core programming concepts and design principles while adhering to modular and maintainable code practices.
+This project is a fully functional calculator application developed as part of an educational exercise to demonstrate proficiency in Object-Oriented Programming (OOP) using C#. It serves as a practical implementation of core programming concepts and design principles while adhering to modular and maintainable code practices.
 
 ---
 
@@ -12,7 +12,7 @@ This project is a fully functional calculator application developed as a part of
    - Supports addition, subtraction, multiplication, and division.
 
 2. **Error Handling**:
-   - Validates user input to prevent invalid operations such as division by zero.
+   - Validates user input to prevent invalid operations, such as division by zero.
    - Displays user-friendly error messages for invalid operations or inputs.
 
 3. **User-Friendly Interface**:
@@ -40,6 +40,43 @@ This project is a fully functional calculator application developed as a part of
 
 ## How to Run
 
-1. Clone the repository:
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/RicoRF/CSharp-Calculator.git
+   ```
+
+2. **Open the solution file in Visual Studio**:
+   ```
+   Final project (Calculator).sln
+   ```
+
+3. **Build the solution**:
+   - Use the "Build" option in Visual Studio to compile the project.
+
+4. **Run the application**:
+   - Start the application from the Visual Studio debugger to launch the calculator GUI.
+
+5. **Run the tests**:
+   - Navigate to the test project within the solution and execute the tests to validate functionality.
+
+---
+
+## Lessons Learned
+
+### Object-Oriented Design
+- Gained hands-on experience in encapsulating logic within reusable and maintainable classes.
+- Leveraged inheritance to extend functionality without redundancy.
+
+### Testing
+- Understood the importance of automated testing in ensuring software quality and reliability.
+
+### Error Handling
+- Enhanced problem-solving skills by implementing robust input validation and error messaging.
+
+---
+
+## Future Enhancements
+
+- Extend functionality to include advanced operations such as square roots, exponentiation, and trigonometric functions.
+- Improve the user interface with modern design practices and animations.
+- Implement localization support for multi-language compatibility.
